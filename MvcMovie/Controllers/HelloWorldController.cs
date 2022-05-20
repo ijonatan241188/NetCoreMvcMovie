@@ -20,7 +20,7 @@ namespace MvcMovie.Controllers
         }
 
 
-        public IActionResult Welcome(string name, int numTimes = 1)
+        public IActionResult Peliculas(string name, int numTimes = 1)
 
         {
 
